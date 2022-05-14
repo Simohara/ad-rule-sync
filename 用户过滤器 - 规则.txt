@@ -1,0 +1,197 @@
+bbs.nga.cn###post1strow0 > td.null:last-child > a > img:first-child
+bbs.nga.cn###post1strow0 > td.null:last-child
+fflogs.com###right-vertical-banner
+fflogs.com##div.cc-window.cc-banner.cc-type-info.cc-theme-block.cc-bottom.cc-color-override--1360619034:first-child
+fflogs.com###top-banner
+fflogs.com###patron-box
+fflogs.com###bottom-banner
+fflogs.com###playwire-video-container
+fflogs.com###content-and-footer > div.thin-banner-container:nth-child(2) > div.thin-banner > a.unstyled-link > div.markdown > div.markdown__content > p
+olevod.com###play_page > div.play_boxbg:nth-child(2) > div.container > div.play_box.play_video:nth-child(2) > div.right_row.fr.hidden_xs.hidden_mi:last-child > div.play_box_right > div.play_infobox > div.guangao:first-child
+olevod.com###play_page > div.container:nth-child(3) > div.right_row.pa_left.fr.hidden_xs.hidden_mi:last-child > div.zozoads:first-child
+bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(2)
+pornlulu.com###links
+tieba.baidu.com###tiebaCustomPassLogin
+tieba.baidu.com###pb_content > div.right_section.right_bright:last-child
+tieba.baidu.com##div.wrap1:nth-child(6) > div.wrap2 > div.page-container:nth-child(2) > div.main-sec.clearfix:last-child > div.top-sec.clearfix:first-child
+tieba.baidu.com###right_wrap
+jable.tv###site-header > div.container > div.row.header-wrap > div.col-auto.col-md-5:first-child > nav.navbar.navbar-expand-lg:last-child > div.collapse.navbar-collapse > ul.navbar-nav
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.jump-top-box
+zhidao.baidu.com###ask-info
+zhidao.baidu.com##.nav-menu-container
+zhidao.baidu.com##.wgt-footer-new
+zhidao.baidu.com###userbar
+space.bilibili.com###page-index > div.col-2:last-child > div.section.elec:nth-child(4)
+bilibili.com###activity_vote
+bilibili.com###bili_report_live > div.live-tabs:last-child > div.recommend-activity.home-slide:last-child
+bilibili.com###bili_report_live > div.live-tabs:last-child > div.tab-switch:first-child > div.tab-switch-item:last-child
+bilibili.com###reportFirst2
+bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(3) > div.nav-item.nav-item-message > div.t:first-child > div.num:first-child
+bilibili.com##.trending
+bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div:last-child
+xie.infoq.cn##.side-operation
+bilibili.com###bili_live
+bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:last-child
+t.bilibili.com###app > div > div.home-page.f-clear:last-child > div.home-container:nth-child(2) > div.home-content > div.right-panel:last-child > div.notice-panel:first-child
+bilibili.com###app > div.article-detail > div.article-container:nth-child(3) > div.interaction-info:last-child
+bilibili.com###app > div.article-detail > a.activty-image:nth-child(4)
+bilibili.com###app > div.article-detail > div.right-side-bar:last-child > div.side-toolbar:first-child
+search.bilibili.com##.international-footer
+zhuanlan.zhihu.com##.Post-SideActions
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:last-child
+bilibili.com###reportFirst3
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(7)
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(5)
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(3)
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(2)
+bilibili.com##.num
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div:last-child
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:last-child
+bilibili.com###primaryFriendshipLink
+bilibili.com###elevator
+jianshu.com##._27yofX
+jianshu.com###__next > footer:nth-child(3) > div._2xr8G8:first-child
+jianshu.com##._3Pnjry
+jianshu.com###__next > header:first-child
+jianshu.com##.tab
+jianshu.com##.btn, .write-btn
+ff14.huijiwiki.com###mw-content-text > div.mw-parser-output:last-child > div.row.ff14-mainpage > div.col-md-3:first-child > div.ff14-panel:first-child
+ff14.huijiwiki.com###mw-content-text > div.mw-parser-output:last-child > div.row.ff14-mainpage > div.col-md-3:first-child > div.ff14-panel:nth-child(2)
+ff14.huijiwiki.com##.feedback-btn, .feedback-btn-gray
+ff14.huijiwiki.com###icon-section
+docin.com##.t
+docin.com##.edubox_footer1
+docin.com###docinShareSlider
+docin.com##.docin_share_sns, .share_style2
+docin.com##.doc_active_info
+docin.com##.bold_nav_item
+docin.com##.top_nav_item
+yhdm.so##div.area:nth-child(5) > div.playbg > div.share.l:nth-child(2)
+yhdm.so##.foot
+@@||asia.wargaming.net^$important,document
+@@||worldofwarships.asia^$important,document
+nga.178.com##.headline
+hinative.com##.mod_banner_register_float_pc
+hinative.com###questions_show > div.l_container:last-child > div.row.throwback.page_container > main.l_main_container:first-child > div.section_question.mod_question_container.mod_sp_fit_container.not_logged_in:nth-child(2) > div.wrapper_questions_show:first-child > div.box_answer.pos_relative.chat_body.for_performance:nth-child(4) > a.chat_content_wrapper.mod_ads_trek_balloon:nth-child(7)
+hinative.com##.mod_share_buttons
+hinative.com##.l_sidebar_container
+hinative.com##div.l_container:nth-child(6)
+hinative.com###questions_show > div.l_container:last-child > div.row.throwback.page_container > main.l_main_container:first-child > div.section_question.mod_question_container.mod_sp_fit_container.not_logged_in:nth-child(2) > div.wrapper_questions_show:first-child > div.box_answer.pos_relative.chat_body.for_performance:nth-child(4) > a.chat_content_wrapper.mod_ads_trek_balloon:nth-child(10) > div.row.chat_content
+@@||www.lingeye.com^$important,document
+eigobu.jp##.mp-Article_Ad
+wenku.baidu.com##.navigator-bar-wrapper
+wenku.baidu.com###app > div.content-wrapper:nth-child(5) > div.middle-wrapper:nth-child(2)
+wenku.baidu.com##.propagation-wrapper
+wenku.baidu.com###page-footer
+bilibili.com##.international-footer
+@@||create.unity3d.com^$important,document
+@@||signup.cloud.oracle.com^$important,document
+cowtransfer.com##.iframeContainer
+@@||www-gamedeveloper-com.translate.goog^$important,document
+@@||next.itellyou.cn^$important,document
+@@||auth.huaweicloud.com^$important,document
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:last-child
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(8)
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(8)
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+bilibili.com##.red-num
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
+bilibili.com##.notice-item
+@@||detail.tmall.com^$important,document
+@@||open.weixin.qq.com^$important,document
+@@||jpghd.com^$important,document
+@@||bigmp4.com^$important,document
+@@||gifspeed.imageonline.co^$important,document
+@@||s6.ezgif.com^$important,document
+@@||image.baidu.com^$important,document
+@@||www.iodraw.com^$important,document
+###new-actentry
+@@||www.globaldelight.com^$important,document
+@@||ai.deepshare.net^$important,document
+@@||freessl.cn^$important,document
+@@||www.freessl.com^$important,document
+@@||www.amazon.co.jp^$important,document
+baidu.com###s_wrap
+pixiv.net##.sc-4nj1pr-5, .hKYKav
+@@||picrew.me^$important,document
+uiiiuiii.com##.archive-main-show
+uiiiuiii.com##.footer-bar
+uiiiuiii.com##.footer-menus
+uiiiuiii.com##.footer-copyright
+uiiiuiii.com###showLoginTip
+uiiiuiii.com###singular_content > div.container > div.content > div.sidebar:last-child > div.sidebar-fixed.show.autofixed-fixed:nth-child(5) > div.widget.widget-show:first-child
+zhihu.com##.Footer
+@@||pretagteam.com^$important,document
+@@||www.resound.com^$important,document
+yinghuacd.com###HMcoupletDivleft
+yinghuacd.com###HMcoupletDivright
+yinghuacd.com###HMRichBox
+yinghuacd.com##.foot
+@@||snapdrop.net^$important,document
+@@||dl.acm.org^$important,document
+@@||github.com^$important,document
+@@||github.dev^$important,document
+cloud.tencent.com##.com-widget-operations2, .theme2, .J-sharingBar
+cloud.tencent.com##.J-footer, .com-2-footer
+@@||note.youdao.com^$important,document
+static.zhihu.com/heifetz/main.signflow.*.js
+static.zhihu.com/heifetz/column.signflow.*.js
+zhihu.com##.Question-mainColumnLogin
+zhihu.com##.Banner-image
+zhihu.com##.Question-sideColumn, .Question-sideColumn--sticky
+note.youdao.com##.pc-download-image
+hinative.com###questions_show > div.l_container:last-child > div.row.throwback.page_container > main.l_main_container:first-child > div.section_question.mod_question_container.mod_sp_fit_container.not_logged_in:nth-child(2) > div.wrapper_questions_show:first-child > div.box_answer.pos_relative.chat_body.for_performance:nth-child(4) > a.chat_content_wrapper.mod_ads_balloon:nth-child(11)
+hinative.com##.mod_footer
+live.bilibili.com###gift-control-vm
+bilibili.com##.eva-extension-area
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(8)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
+fanyi.baidu.com##.footer, .cleafix
+jd.com###J_promotional-top
+greasyfork.org###script-show-info-ad
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
+olevod.com##div.container:nth-child(8) > div.imgBox:first-child
+douyu.com###TestGetAnchorPandentSvga-1647182751989 > canvas
+douyu.com###layout-Player-aside > div.layout-Player-asideMainTop:first-child > div.layout-Player-rank:nth-child(3) > div.ChatRank > div.ChatRank-rankWraper.is-enter > div.ChatTabContainer:last-child > div.ChatTabContainer-conWraper:last-child > div.ChatTabContainer-content.is-active:last-child > div.FansRank > div.DiamondsFansRankInfo.clearfix:first-child
+douyu.com###layout-Player-aside > div.layout-Player-asideMainTop:first-child > div.layout-Player-rank:nth-child(3)
+douyu.com###js-room-activity
+@@||greasyfork.org^$important,document
+delftstack.com###_vdo_ads_player_ai_5213
+@@||pan.baidu.com^$important,document
+m.tttkxs.com###bdnovel
+m.tttkxs.com##.maioyydw, .aznav
+m.tttkxs.com##footer:nth-child(18)
+m.tttkxs.com##div:nth-child(12)
+boxnovel.baidu.com##.afd-ad
+boxnovel.baidu.com##.listen-book, .copytoken
+@@||itc-lms.ecc.u-tokyo.ac.jp^$important,document
+quillbot.com##.jss2499, .MuiBox-root, .css-1n1t7nz
+@@||www.coolermaster.com.cn^$important,document
+icode9.com##.topimg
+icode9.com###tt50
+icode9.com##.con-recom
+icode9.com##.eleme
+@@||debit-3d.bk.mufg.jp^$important,document
+@@||secure.xsolla.com^$important,document
+@@||nn.labml.ai^$important,document
+@@||www.deepshare.net^$important,document
+processon.com##.activity-con
+tieba.baidu.com##.nav-bar-v2-fixed
+tieba.baidu.com##.tbui_aside_float_bar
+movie.douban.com###dale_movie_subject_banner_after_intro
+@@||passport.baidu.com^$important,document
+m.weibo.cn##.wrap
+yomiuri.co.jp##div.layout-contents:nth-child(12) > div.layout-contents__sidebar:last-child > div:first-child
+yomiuri.co.jp##.fn-yomiuri-id, .p-yomiuri-id
+yomiuri.co.jp##.p-header-2021__belt
+@@||cfg.smt.docomo.ne.jp^$important,document
+@@||payment1.smt.docomo.ne.jp^$important,document
+@@||www2.mufgcard.com^$important,document
