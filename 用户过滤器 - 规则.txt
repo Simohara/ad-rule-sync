@@ -1,3 +1,6 @@
+!Title: rule-sync
+!Version: 20220514
+!Homepage: https://github.com/Simohara/ad-rule-sync
 bbs.nga.cn###post1strow0 > td.null:last-child > a > img:first-child
 bbs.nga.cn###post1strow0 > td.null:last-child
 fflogs.com###right-vertical-banner
