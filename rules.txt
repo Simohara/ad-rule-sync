@@ -1,6 +1,3 @@
-!Title: rule-sync
-!Version: 20220514
-!Homepage: https://github.com/Simohara/ad-rule-sync
 bbs.nga.cn###post1strow0 > td.null:last-child > a > img:first-child
 bbs.nga.cn###post1strow0 > td.null:last-child
 fflogs.com###right-vertical-banner
@@ -12,7 +9,6 @@ fflogs.com###playwire-video-container
 fflogs.com###content-and-footer > div.thin-banner-container:nth-child(2) > div.thin-banner > a.unstyled-link > div.markdown > div.markdown__content > p
 olevod.com###play_page > div.play_boxbg:nth-child(2) > div.container > div.play_box.play_video:nth-child(2) > div.right_row.fr.hidden_xs.hidden_mi:last-child > div.play_box_right > div.play_infobox > div.guangao:first-child
 olevod.com###play_page > div.container:nth-child(3) > div.right_row.pa_left.fr.hidden_xs.hidden_mi:last-child > div.zozoads:first-child
-bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(2)
 pornlulu.com###links
 tieba.baidu.com###tiebaCustomPassLogin
 tieba.baidu.com###pb_content > div.right_section.right_bright:last-child
@@ -25,34 +21,8 @@ zhidao.baidu.com###ask-info
 zhidao.baidu.com##.nav-menu-container
 zhidao.baidu.com##.wgt-footer-new
 zhidao.baidu.com###userbar
-space.bilibili.com###page-index > div.col-2:last-child > div.section.elec:nth-child(4)
-bilibili.com###activity_vote
-bilibili.com###bili_report_live > div.live-tabs:last-child > div.recommend-activity.home-slide:last-child
-bilibili.com###bili_report_live > div.live-tabs:last-child > div.tab-switch:first-child > div.tab-switch-item:last-child
-bilibili.com###reportFirst2
-bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(3) > div.nav-item.nav-item-message > div.t:first-child > div.num:first-child
-bilibili.com##.trending
-bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div:last-child
 xie.infoq.cn##.side-operation
-bilibili.com###bili_live
-bilibili.com###internationalHeader > div.mini-header.m-header.mini-type > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:last-child
-t.bilibili.com###app > div > div.home-page.f-clear:last-child > div.home-container:nth-child(2) > div.home-content > div.right-panel:last-child > div.notice-panel:first-child
-bilibili.com###app > div.article-detail > div.article-container:nth-child(3) > div.interaction-info:last-child
-bilibili.com###app > div.article-detail > a.activty-image:nth-child(4)
-bilibili.com###app > div.article-detail > div.right-side-bar:last-child > div.side-toolbar:first-child
-search.bilibili.com##.international-footer
 zhuanlan.zhihu.com##.Post-SideActions
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:last-child
-bilibili.com###reportFirst3
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(7)
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(5)
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(3)
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:nth-child(2)
-bilibili.com##.num
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div:last-child
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-user-center:last-child > div.user-con.signin:nth-child(2) > div.item:last-child
-bilibili.com###primaryFriendshipLink
-bilibili.com###elevator
 jianshu.com##._27yofX
 jianshu.com###__next > footer:nth-child(3) > div._2xr8G8:first-child
 jianshu.com##._3Pnjry
@@ -87,24 +57,12 @@ wenku.baidu.com##.navigator-bar-wrapper
 wenku.baidu.com###app > div.content-wrapper:nth-child(5) > div.middle-wrapper:nth-child(2)
 wenku.baidu.com##.propagation-wrapper
 wenku.baidu.com###page-footer
-bilibili.com##.international-footer
 @@||create.unity3d.com^$important,document
 @@||signup.cloud.oracle.com^$important,document
 cowtransfer.com##.iframeContainer
 @@||www-gamedeveloper-com.translate.goog^$important,document
 @@||next.itellyou.cn^$important,document
 @@||auth.huaweicloud.com^$important,document
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:last-child
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(8)
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
-bilibili.com###internationalHeader > div.mini-header.m-header:first-child > div.mini-header__content.mini-header--login > div.nav-link:first-child > ul.nav-link-ul > li.nav-link-item:nth-child(8)
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
-bilibili.com##.red-num
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
-bilibili.com###i_cecream > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.right-entry:last-child > li.right-entry-item.right-entry-item--upload:last-child
-bilibili.com##.notice-item
 @@||detail.tmall.com^$important,document
 @@||open.weixin.qq.com^$important,document
 @@||jpghd.com^$important,document
@@ -113,7 +71,6 @@ bilibili.com##.notice-item
 @@||s6.ezgif.com^$important,document
 @@||image.baidu.com^$important,document
 @@||www.iodraw.com^$important,document
-###new-actentry
 @@||www.globaldelight.com^$important,document
 @@||ai.deepshare.net^$important,document
 @@||freessl.cn^$important,document
@@ -150,25 +107,15 @@ zhihu.com##.Question-sideColumn, .Question-sideColumn--sticky
 note.youdao.com##.pc-download-image
 hinative.com###questions_show > div.l_container:last-child > div.row.throwback.page_container > main.l_main_container:first-child > div.section_question.mod_question_container.mod_sp_fit_container.not_logged_in:nth-child(2) > div.wrapper_questions_show:first-child > div.box_answer.pos_relative.chat_body.for_performance:nth-child(4) > a.chat_content_wrapper.mod_ads_balloon:nth-child(11)
 hinative.com##.mod_footer
-live.bilibili.com###gift-control-vm
-bilibili.com##.eva-extension-area
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(5)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(4)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(8)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:nth-child(7)
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.v-popover-wrap:nth-child(2)
 fanyi.baidu.com##.footer, .cleafix
 jd.com###J_promotional-top
 greasyfork.org###script-show-info-ad
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:nth-child(7)
 olevod.com##div.container:nth-child(8) > div.imgBox:first-child
 douyu.com###TestGetAnchorPandentSvga-1647182751989 > canvas
 douyu.com###layout-Player-aside > div.layout-Player-asideMainTop:first-child > div.layout-Player-rank:nth-child(3) > div.ChatRank > div.ChatRank-rankWraper.is-enter > div.ChatTabContainer:last-child > div.ChatTabContainer-conWraper:last-child > div.ChatTabContainer-content.is-active:last-child > div.FansRank > div.DiamondsFansRankInfo.clearfix:first-child
 douyu.com###layout-Player-aside > div.layout-Player-asideMainTop:first-child > div.layout-Player-rank:nth-child(3)
 douyu.com###js-room-activity
-@@||greasyfork.org^$important,document
 delftstack.com###_vdo_ads_player_ai_5213
-@@||pan.baidu.com^$important,document
 m.tttkxs.com###bdnovel
 m.tttkxs.com##.maioyydw, .aznav
 m.tttkxs.com##footer:nth-child(18)
@@ -198,3 +145,34 @@ yomiuri.co.jp##.p-header-2021__belt
 @@||cfg.smt.docomo.ne.jp^$important,document
 @@||payment1.smt.docomo.ne.jp^$important,document
 @@||www2.mufgcard.com^$important,document
+@@||www.sony.jp^$important,document
+@@||www.wolframalpha.com^$important,document
+blog.csdn.net##.toolbar-btns, .onlyUser
+blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container > div.toolbar-container-left:first-child > ul.toolbar-menus.csdn-toolbar-fl:last-child
+blog.csdn.net##.csdn-side-toolbar
+@@||friends.worldofwarships.com^$important,document
+@@||greasyfork.org^$important,document
+on-ze.com##.ads
+@@||pan.baidu.com^$important,document
+@@||openmlsys.github.io^$important,document
+@@||patents.google.com^$important,document
+@@||jp.daisonet.com^$important,document
+@@||world.taobao.com^$important,document
+@@||zhidao.baidu.com^$important,document
+cvmart.net##.RegisterNow
+@@||www.sxgbxx.gov.cn^$important,document
+@@||login.bce.baidu.com^$important,document
+@@||console.bce.baidu.com^$important,document
+pythonheidong.com##.layui-layer, .layui-layer-dialog, .layui-layer-molv, .layer-anim
+@@||www.xfyun.cn^$important,document
+@@||nitroflare.com^$important,document
+bilibili.com##.extension, .bypb-window, .download-client-trigger, .reply-notice, .new-charge-btn, .charge-btn-loaded, .international-footer, .old-charge-btn, .not-follow-charge-btn, .ad-floor-cover, .bili-dyn-banner
+bilibili.com###bili_report_live
+bilibili.com#$?#div.item:matches-attr("/data-v-/"):has(.mini-vip) {remove:true;}
+bilibili.com#$?#li:has(span,div):has(a[href="https://live.bilibili.com/6"]) {remove:true;}
+bilibili.com#$?#li[-ext-contains="/(会员购|赛事|国创|游戏中心|创作中心|大会员)/"]{remove:true;}
+bilibili.com#$?#div.item:has(> a[href^="https://www.bilibili.com/blackboard"]){remove:true}
+bilibili.com#$?#div.bili-dyn-list__item:has(.bili-rich-text:contains("/双十一/")){remove:true}
+bilibili.com#$?#div.name, a.username {color: rgb(251, 114, 153); --darkreader-inline-color: #ff80aa;}
+bilibili.com##.video-page-special-card-small
+yinghuacd.com$$script[src="gg"]
