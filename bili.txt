@@ -3,14 +3,12 @@
 bilibili.com##.extension, .bypb-window, .download-client-trigger, .reply-notice, .new-charge-btn, .charge-btn-loaded, .international-footer, .old-charge-btn, .not-follow-charge-btn, .ad-floor-cover, .bili-dyn-banner
 ! 去掉主页直播推广
 bilibili.com###bili_report_live
-! 去掉主页大会员推广
-bilibili.com#$?#div.item:matches-attr("/data-v-/"):has(.mini-vip) {remove: true;}
 ! 去掉主页赛事推广
 bilibili.com#$?#li:has(span,div):has(a[href="https://live.bilibili.com/6"]) {remove:true;}
 ! 去掉主页活动按钮
-bilibili.com#$?#li[-ext-contains="/(会员购|赛事|国创|游戏中心|创作中心|大会员|BLS)/"]{ display: none; }
-! 去掉主页活动按钮
-bilibili.com#$?#div.item[-ext-contains="创作中心"]{ display: none; }
+www.bilibili.com##a.app-download-link
+bilibili.com#$?#li:has(div > a, a, span >a)[-ext-contains="/(会员购|赛事|国创|游戏中心|BLS|下载)/"]{ display: none; }
+bilibili.com#$?#div.nav-user-center>div>div.item:has(.name[-ext-contains="/(大会员|创作中心)/"]){ display: none; }
 ! 去掉滑动banner的推广
 bilibili.com#$?#div.item:has(> a[href^="https://www.bilibili.com/blackboard"]){remove:true;}
 ! 去掉动态中有关双十一的推广
