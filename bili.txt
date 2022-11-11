@@ -1,0 +1,39 @@
+!bilibili
+! 去掉主页烦人的按钮
+bilibili.com##.extension, .bypb-window, .download-client-trigger, .reply-notice, .new-charge-btn, .charge-btn-loaded, .international-footer, .old-charge-btn, .not-follow-charge-btn, .ad-floor-cover, .bili-dyn-banner
+! 去掉主页直播推广
+bilibili.com###bili_report_live
+! 去掉主页大会员推广
+bilibili.com#$?#div.item:matches-attr("/data-v-/"):has(.mini-vip) {remove: true;}
+! 去掉主页赛事推广
+bilibili.com#$?#li:has(span,div):has(a[href="https://live.bilibili.com/6"]) {remove:true;}
+! 去掉主页活动按钮
+bilibili.com#$?#li[-ext-contains="/(会员购|赛事|国创|游戏中心|创作中心|大会员|BLS)/"]{ display: none; }
+! 去掉主页活动按钮
+bilibili.com#$?#div.item[-ext-contains="创作中心"]{ display: none; }
+! 去掉滑动banner的推广
+bilibili.com#$?#div.item:has(> a[href^="https://www.bilibili.com/blackboard"]){remove:true;}
+! 去掉动态中有关双十一的推广
+bilibili.com#$?#div.bili-dyn-list__item:has(.bili-rich-text:contains("/双十一/")){remove:true}
+! 为了适配darkreader，需要把用户名统一成大会员粉色样式
+bilibili.com#$?#div.name, a.username {color: rgb(251, 114, 153); --darkreader-inline-color: #ff80aa;}
+! 去掉主页的推广视频卡
+bilibili.com##.video-page-special-card-small
+! 去掉主页的活动卡
+bilibili.com###activity_vote
+! 去掉个人空间的推广,充电,游戏
+space.bilibili.com##.shop,.elec,.game
+!bilibili头图
+bilibili.com#$?#div.bili-banner {height:56px; min-height:56px; background-image: none !important}
+bilibili.com#$?#a.head-logo {padding-top: 0.5vw!important}
+bilibili.com##a.head-title, a.banner-link
+!直播间虚拟形象, 推广信息
+live.bilibili.com##.haruna-sekai-de-ichiban-kawaii, div.important-prompt-item, div.convention-msg, .flip-view
+!直播间聊天背景统一
+live.bilibili.com#$?#.chat-item {background-color: rgba(137, 126, 255, 0)!important}
+!直播间用户姓名统一
+live.bilibili.com#$?#span.user-name {color:#00D1F1!important}
+!直播间用户弹幕背景,等级统一
+live.bilibili.com#$?#span.danmaku-item-right {color:snow!important}
+live.bilibili.com#$?#div.shortcut-item:has(span.startlive-icon, div.fanbox-panel-ctnr) {remove:true}
+live.bilibili.com##.title-label, .top3-notice, .link-footer-ctnr, .rank-icon, .gift-control-panel, .gift-item, .icon-ctnr, .drop-ctnr, .activity-entry, .blive-avatar-pendant, .blive-avatar-icons, .fans-medal-item-ctnr
