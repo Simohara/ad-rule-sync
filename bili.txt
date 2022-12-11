@@ -7,7 +7,7 @@ bilibili.com###bili_report_live
 bilibili.com#$?#li:has(span,div):has(a[href="https://live.bilibili.com/6"]) {remove:true;}
 ! 去掉主页活动按钮
 www.bilibili.com##a.app-download-link
-bilibili.com#$?#li:has(div > a, a, span >a)[-ext-contains="/(会员购|赛事|国创|游戏中心|BLS|下载|世界杯)/"]:not(:contains(/(首页|主站)/i){ display: none; }
+bilibili.com#$?#li:has(div > a, a, span >a)[-ext-contains="/(会员购|赛事|国创|游戏中心|BLS|下载|世界杯)/"]:not(:contains(/(首页|主站)/i)){ display: none; }
 bilibili.com#$?#div.nav-user-center>div>div.item:has(.name[-ext-contains="/(大会员|创作中心)/"]){ display: none; }
 bilibili.com#$?#ul.right-entry > li[-ext-contains="/(大会员|创作中心)/"]{ display: none; }
 ! 去掉滑动banner的推广
