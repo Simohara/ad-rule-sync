@@ -32,6 +32,7 @@ live.bilibili.com##.haruna-sekai-de-ichiban-kawaii, div.important-prompt-item, d
 live.bilibili.com#$?#.chat-item {background-color: rgba(137, 126, 255, 0)!important}
 !直播间用户姓名统一
 live.bilibili.com#$?#span.user-name {color:#00D1F1!important}
+live.bilibili.com##.fans-medal-item-ctnr
 !直播间用户弹幕背景,等级统一
 live.bilibili.com#$?#span.danmaku-item-right {color:snow!important}
 live.bilibili.com#$?#div.shortcut-item:has(span.startlive-icon, div.fanbox-panel-ctnr) {remove:true}
