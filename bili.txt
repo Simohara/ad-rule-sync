@@ -1,4 +1,7 @@
+
 !bilibili
+!定义过滤字符串
+var block_header_regx = "/(会员购|赛事|国创|游戏中心|BLS|下载|世界杯|三体|创作中心)/"
 ! 去掉主页烦人的按钮
 bilibili.com##.extension, .bypb-window, .download-client-trigger, .reply-notice, .new-charge-btn, .charge-btn-loaded, .international-footer, .old-charge-btn, .not-follow-charge-btn, .ad-floor-cover, .bili-dyn-banner
 ! 去掉主页直播推广
