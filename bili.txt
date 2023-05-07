@@ -14,7 +14,7 @@ bilibili.com#$?#li:has(div > a)[-ext-contains="/(会员购|赛事|国创|游戏�
 bilibili.com#$?#li:has(a)[-ext-contains="/(会员购|赛事|国创|游戏中心|BLS|下载|世界杯|三体)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i)){ display: none; }
 bilibili.com#$?#li:has(span >a)[-ext-contains="/(会员购|赛事|国创|游戏中心|BLS|下载|世界杯|三体)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i)){ display: none; }
 bilibili.com#$?#div.nav-user-center>div>div.item:has(.name[-ext-contains="/(大会员|创作中心)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i))){ display: none; }
-bilibili.com#$?#ul.right-entry > li[-ext-contains="/(大会员|创作中心)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i)){ display: none; }
+!bilibili.com#$?#ul.right-entry > li[-ext-contains="/(大会员|创作中心)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i)){ display: none; }
 ! 去掉滑动banner的推广
 bilibili.com#$?#div.item:has(> a[href^="https://www.bilibili.com/blackboard"]){remove:true;}
 ! 去掉动态中有关双十一的推广
