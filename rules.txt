@@ -170,7 +170,7 @@ bilibili.com##.extension, .bypb-window, .download-client-trigger, .reply-notice,
 bilibili.com###bili_report_live
 bilibili.com#$?#div.item:matches-attr("/data-v-/"):has(.mini-vip) {remove:true;}
 bilibili.com#$?#li:has(span,div):has(a[href="https://live.bilibili.com/6"]) {remove:true;}
-bilibili.com#$?#li[-ext-contains="/(会员购|赛事|国创|游戏中心|创作中心|大会员)/"]{remove:true;}
+bilibili.com#$?#li[-ext-contains="/(会员购|赛事|国创|游戏中心|创作中心|大会员)/"]:not(:contains(/(首页|主站|动态|收藏|历史)/i)){remove:true;}
 bilibili.com#$?#div.item:has(> a[href^="https://www.bilibili.com/blackboard"]){remove:true}
 bilibili.com#$?#div.bili-dyn-list__item:has(.bili-rich-text:contains("/双十一/")){remove:true}
 bilibili.com#$?#div.name, a.username {color: rgb(251, 114, 153); --darkreader-inline-color: #ff80aa;}
